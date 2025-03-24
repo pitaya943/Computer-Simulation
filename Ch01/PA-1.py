@@ -4,8 +4,12 @@ import P1, P2, P3
 # Main function to run all problems
 #############################################
 def main():
+    # For fixed result of simulations
     random.seed(123)
 
+    #############################################
+    # Problem 1: M/M/1 Queue Simulation
+    #############################################
     print("\n\nProblem 1: M/M/1 Queuing System (Array and Linked List Versions)")
     arrival_rates = [0.2, 0.4, 0.6, 0.8]
     service_rate = 1.2
@@ -77,7 +81,7 @@ def main():
     print("\n# Case 2 (µ1 = 1.2, µ2 = 1.6):")
     print("Class\t\tMean Queueing Delay (min)")
     print(f"Class 1:\t{avg_delay1_case2:.3f}")
-    print(f"Class 2:\t{avg_delay2_case2:.3f}")
+    print(f"Class 2:\t{avg_delay2_case2:.3f}\n\n")
 
 if __name__ == "__main__":
     main()

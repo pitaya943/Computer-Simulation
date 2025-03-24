@@ -1,0 +1,56 @@
+------------------------------------------
+// Single-Server Queueing System //
+Arrival rate                   0.2
+Mean interarrival time       5.000 minutes
+Service rate                   1.2
+Mean service time            0.833 minutes
+Number of customers           1000
+------------------------------------------
+Mean system delays           0.149 minutes
+Mean system lengths          0.029
+Server utilization           0.159
+Time simulation ended     5199.568 minutes
+------------------------------------------
+
+------------------------------------------
+// Single-Server Queueing System //
+Arrival rate                   0.4
+Mean interarrival time       2.500 minutes
+Service rate                   1.2
+Mean service time            0.833 minutes
+Number of customers           1000
+------------------------------------------
+Mean system delays           0.381 minutes
+Mean system lengths          0.147
+Server utilization           0.322
+Time simulation ended     2589.156 minutes
+------------------------------------------
+
+------------------------------------------
+// Single-Server Queueing System //
+Arrival rate                   0.6
+Mean interarrival time       1.667 minutes
+Service rate                   1.2
+Mean service time            0.833 minutes
+Number of customers           1000
+------------------------------------------
+Mean system delays           0.821 minutes
+Mean system lengths          0.518
+Server utilization           0.509
+Time simulation ended     1587.684 minutes
+------------------------------------------
+
+------------------------------------------
+// Single-Server Queueing System //
+Arrival rate                   0.8
+Mean interarrival time       1.250 minutes
+Service rate                   1.2
+Mean service time            0.833 minutes
+Number of customers           1000
+------------------------------------------
+Mean system delays           1.384 minutes
+Mean system lengths          1.098
+Server utilization           0.632
+Time simulation ended     1261.709 minutes
+------------------------------------------
+
